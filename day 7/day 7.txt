@@ -1,0 +1,2 @@
+  char arr3[3][20]={"asd","zxcv","qwea","zxas"};//take more memory, use when modify string
+  const char  *name[]={"asd","zxcv","qwea","zxs"};//take less memmory,can not modify string

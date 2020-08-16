@@ -1,0 +1,11 @@
+& bitwise and operator(binary)
+
+& reference operator(unary) : &x
+* dereference operator(unary) : *ptr
+
+         electric fence and valgrind and address sanitizer
+         little endian
+         big endian
+
+         --cdecl in linux gives description of declaration 
+         --cutils

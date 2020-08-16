@@ -1,0 +1,21 @@
+Dynamic Memory Allocation :
+            malloc
+            calloc
+            realloc
+
+    declaration in stdlib.h
+
+
+Note : never return address of local/automatic variable
+
+
+                                        --System Call
+                                        -- -lefence valgrind
+
+--------------------------------------------------------------
+
+new(c++) =malloc
+
+string datatype in cpp uses dynamic allocation internally
+
+vector <datatype> name; :resizable array;

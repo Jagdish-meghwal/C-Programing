@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570095950 source:c:\users\jagdish meghwal\desktop\trainning\day 3\linking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bits.h"
+
+1570094133 source:c:\users\jagdish meghwal\desktop\trainning\day 3\linking\func1.c
+	<stdio.h>
+
+1570095898 source:c:\users\jagdish meghwal\desktop\trainning\day 3\linking\func2.c
+	<stdio.h>
+
+1570095973 c:\users\jagdish meghwal\desktop\trainning\day 3\linking\bits.h
+

@@ -1,0 +1,19 @@
+there will be only copy of static data member;
+
+static function do not have this pointer;
+
+static function only have static data;
+
+---------------------------------------------
+
+max <
+min <
+sort <
+max_element <
+min_element <
+
+find ==
+count ==
+
+
+

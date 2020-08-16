@@ -1,0 +1,39 @@
+scop: where it be accessible
+      Local scope
+      Global scope
+
+                              --Code complete -Steve cornell
+                              --Clean code -Robert c martin
+
+Memory Segment:
+      Stack:Automatic(non static local variable)
+      Heap :Dynamic Allocation
+      Data :Global and static variable( type initialiazed uninitialized)
+      Code/Text : instruction to perform
+
+Storage Class Specifier:
+      auto ( created everytime when enter in function and deleted everytime when exit)
+      register
+      static (created once when program loading)
+      extern
+           
+        auto and register can be applied only to local variablesand can not be applied for global variable
+
+Internal Linkage and External Linkage
+
+Symbol Table
+
+               debugging 
+               gcc filename.c -g
+               gdb a.out
+               break main
+               step
+               next
+              
+Tight coupling and loose coupling
+Re-entrant and non Re-entrant
+
+  avoid use of global and static local variable
+
+compiler looks for only declaration(not definition)
+linker looks for definition;

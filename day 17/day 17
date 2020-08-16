@@ -1,0 +1,13 @@
+const should be in declaration and definition both for constant function
+
+static data member can be modifify in constant function
+
+[] can be overload in array and vector ( not in set and list)  
+
+operator can not be overloaded  sizeof   ::   .   .*   ?:
+
+operator can only be overloading as member function  []  ->  ()  =
+
+use own copy constructor
+
+post increament has higher precedence over pre

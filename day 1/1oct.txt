@@ -1,0 +1,51 @@
+Datatypes:
+  int    2/4
+  float  4
+  double 8
+  char   1
+
+  long int 4/8
+  short int 2 
+  
+                                                --1996 rocket launcher failure
+  
+  typedef is use to alt name to existing datatype.
+  int8_t  -128 to 127
+  int16_t
+  int32_t
+  int64_t
+
+  uint8_t   0 to 255
+  uint16_t
+  uint32_t
+  uint64_t
+
+signed and unsigned :
+
+Arithmetic Operation:
+          % only works with int  in c/c++;
+Precedence:
+
+    
+  +ve to -ve = 2s compliment
+
+binary equivalant
+  .5 = 1
+  .25 = 01
+
+
+ source code
+ preprocessor(translation unit)
+ compiler(assemly code) 
+ assembler(object code)
+
+ linker(executable code)
+ loader(load and execute)
+
+  equation is evalute by postfix equation (not bodmas rule directly)
+
+ x=f1()+f2(); f1 may evaluted brfore f2 or vice versa
+
+    int a=1; printf("%d\n%d\n%d",++a,a++,a++); 
+        order of evalution of arguments in function is not specified.
+    sequence point: ; && || ?

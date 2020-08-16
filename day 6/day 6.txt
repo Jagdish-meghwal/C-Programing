@@ -1,0 +1,16 @@
+    int x=5; int y=10;
+    const int *ptr1=&x; //pointer to const : can not change value of x, can change the pointing address;
+    int const *ptr2=&x;//pointer to const
+    int *const ptr3=&x;//constant pointer :pointer is fixed to point one point, can modify the value of pointing address
+
+    *ptr1=10; invalid
+    *ptr2=10; invalid
+    *ptr3=10; valid
+     
+    ptr1=&y; valid
+    ptr2=&y; valid
+    ptr3=&y; invalid
+
+---------------------------------------------------------------
+
+   strcmp function compare alphabatic order (not length of string )

@@ -1,0 +1,15 @@
+A 65  0100 0001
+a 97  0110 0001
+
+B 66  0100 0010
+b 98  0110 0010
+
+C 67  0100 0011
+c 99  0110 0011
+
+32 & alphabate? uppercase:lowercase;
+
+               --Cracking the coding interview by Gayle Lakkmann
+ & verify
+ | set
+ ^ toggle

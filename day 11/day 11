@@ -1,0 +1,10 @@
+
+    braced Initializer / Uniform Initializer
+
+     s.printStudent(); //  pass (hidden) address of s object 
+
+Defualt Constructor:contructor with zero parameter
+
+compiler provide default constructor if user does not provide default/parameterized constructor;
+
+compiler provides copy constructor 

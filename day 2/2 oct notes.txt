@@ -1,0 +1,23 @@
+conversion:
+   implicite
+   explicite
+
+ long double  12
+ double        8
+ float         4
+ long int      8
+
+ in arithmetic operation char and short convert in int
+    byte x=2;
+    byte y=3;
+    byte z=x+y; gives error (java)
+
+   int a=-5;
+    if(a<sizeof(int))
+        cout << "Hello world!" << endl; 
+        //not execute because a convert in unsigned which will be greater value
+
+    x=x++; is undefine it not update;
+  dont compare signed and unsigned directly
+  
+   

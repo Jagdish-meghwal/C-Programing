@@ -1,0 +1,9 @@
+  list in c++ : circular Doubly linked list
+              only supported on iterator in list : ++
+                                                   --
+                                                   !=
+                                                   ==
+
+               substraction and addition of ptr not possible
+
+   

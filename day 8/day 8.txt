@@ -1,0 +1,23 @@
+generic function in c :
+qosrt
+lsearch
+bsearch
+memcpy
+memmove
+memset
+-------------------------------------------------------------------------------------------
+Templates (c++ concept): STL  
+            
+function overloading : name decorating
+
+ *max_element(*start address, *end address) : return address of max element in array
+
+ *find(*start address, *end address,key) : if find return address of key otherwise return end address
+
+
+function var => stack;
+function instruction => text ( code ) ;
+
+void (*ptr)()=func //function pointer
+
+return-type ( * ptr ) ( parameter types ) ;

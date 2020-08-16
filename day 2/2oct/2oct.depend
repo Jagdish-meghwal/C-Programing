@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1569989264 source:c:\users\jagdish meghwal\desktop\trainning\day 2\2oct\1_sizeof.c
+	<stdio.h>
+
+1569990798 source:c:\users\jagdish meghwal\desktop\trainning\day 2\2oct\2_sizeof.c
+	<stdio.h>
+
+1569994344 source:c:\users\jagdish meghwal\desktop\trainning\day 2\2oct\5_catandmouse.c
+	<stdio.h>
+	<math.h>
+
+1569992918 source:c:\users\jagdish meghwal\desktop\trainning\day 2\2oct\main.cpp
+	<iostream>
+
+1569995057 source:c:\users\jagdish meghwal\desktop\trainning\day 2\2oct\6_tax.c
+	<stdio.h>
+

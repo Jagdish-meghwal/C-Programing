@@ -1,0 +1,13 @@
+
+tree is directed graph
+
+btree is not binary tree 
+
+set and map implemented through tree internally in c++
+
+use recursion when need store previous state
+
+pre order is same as dfs
+
+level wise traversal is same as bfs
+

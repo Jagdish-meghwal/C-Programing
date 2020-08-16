@@ -1,0 +1,23 @@
+public : Accessible within the same class .Derived class and outside the class
+
+protected: Accessible within the same class and derived class
+
+private: Accessible only within the class.
+
+    Singleton
+    Reference counting
+
+    constructor deligation
+
+    structure padding
+
+polymorphic class : hava atleast one virtual function
+                   vitual function
+                        vitual pointer ( part of object )
+                        virtual table (part of class )
+
+only virtual function can be overridden
+
+abstract class have pure virtual function and can not create object of abstract class
+
+   poymorphic class vs abstract class
